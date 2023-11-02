@@ -44,6 +44,7 @@ void loop() {
   digitalWrite(LED_BUILTIN, LOW);
   delay(1000);
   //test
+  
 
   //lets write the values into a file
   File file = SD.open("/data.txt", FILE_WRITE);
