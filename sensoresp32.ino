@@ -39,8 +39,21 @@ void setup() {
 void loop() {
   sensorValue = analogRead(SENSOR_PIN);
   Serial.println(sensorValue, DEC);
-  digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
-  delay(1000);                       // wait for a second
-  digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(1000);                       // wait for a second
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000);
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000); 
+
+  //lets write the values into a file
+  File file = SD.open("/data.txt", FILE_WRITE);
+  if (file) {
+    for (int i = 0; i < 1000; i++) {
+      sensorValue = analogRead(SENSOR_PIN);
+      file.println(sensorValue);
+      file.close();
+    }
+  }
+  else {
+    Serial.println("error opening file");
+  }
 }
