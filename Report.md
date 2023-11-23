@@ -1,8 +1,8 @@
 # Used Hardware
 
--         Ai-thinker ESP-12K ESP32 S2 Version 08
--         KY-018 Photoresistor
--         Picoscope
+- Ai-thinker ESP-12K ESP32 S2 Version 08
+- KY-018 Photoresistor
+- Picoscope
 
 # Used Software
 
