@@ -19,5 +19,5 @@ void setup() {
 void loop() {
   sensorValue = analogRead(SENSOR_PIN);
   Serial.println(sensorValue, DEC);
-  delay(3); // 3 milliseconds
+  delay(20e-9); // 3 milliseconds
 }
