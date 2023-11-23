@@ -19,6 +19,7 @@
 - Code was mainly done with arduino ide. It took few iterations but no more than 6 hours was used for the code.
 
 ### Repeatability
+- We learned about repeatability that in real life right conditions are hard to create. In our case, meassuring light might be problematic if the person near moves his head and light values change.
 
 ## Sensor
 
@@ -50,7 +51,7 @@ What sensor was experimented and required connections/schematic.
 
 - Report testing digital filters for measured data (use online design tool and copypaste filter code). Use GPIO pins to indicate start and end of filter calculation and check timing with picoscope.
 
-## Summary
+## Summary of learning achievements
 
 ## Team
 [Valtteri Äyräs](https://github.com/walterairs)
