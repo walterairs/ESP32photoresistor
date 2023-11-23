@@ -39,7 +39,9 @@ What sensor was experimented and required connections/schematic.
 
 ## Type-B uncertainty information
 
-- What sources of uncertainty were identified and what was found in data sheets.
+What sources of uncertainty were identified and what was found in data sheets.
+
+There was no datasheet to be found which would tell anything about uncertainty. Some forum suggested that sensor itself might be 161 Adafruit sensor. But even for that sensor no uncertainty data can be found.
 
 ## Type-A uncertainty experiments
 
