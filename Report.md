@@ -19,7 +19,7 @@
 - Code was mainly done with arduino ide. It took few iterations but no more than 6 hours was used for the code.
 
 ### Repeatability
-- We learned about repeatability that in real life right conditions are hard to create. In our case, meassuring light might be problematic if the person near moves his head and light values change.
+- We learned about repeatability that in real life right conditions are hard to create. In our case, measuring light might be problematic if the person near moves his head and light values change.
 
 ## Sensor
 
