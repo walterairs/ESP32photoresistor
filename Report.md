@@ -27,7 +27,7 @@
 
 ## Schematic and connections
 
-<img src="/reportImages/esp32-schematic.png" width="240" height="320">
+<img src="/reportImages/esp32-schematic.png" width="321" height="561">
 <img src="/reportImages/ESP32_photoresistor.jpg" width="240" height="320">
 
 
