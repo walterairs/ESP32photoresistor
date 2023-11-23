@@ -34,8 +34,8 @@ What sensor was experimented and required connections/schematic.
 
 ## Linearization
 
+- The measurement for the linearization was done by slowly lifting a phone flashlight away from the photoresistor and a smartphone with a lux measurement application (Coolexp Lux Meter). The linearization uses the following function: "y = 3.817e+04exp(-0.005252x) + 574.2" <br>
 <img src="/reportImages/Curve.png">
-y = 3.817e+04exp(-0.005252x) + 574.2
 
 ## Type-B uncertainty information
 
@@ -44,6 +44,10 @@ y = 3.817e+04exp(-0.005252x) + 574.2
 ## Type-A uncertainty experiments
 
 - When having constant signal input, what was the measured uncertainty (print values to terminal and import to MATLAB for analysis)
+- The sensor was exposed to a constant light during the measurement. The analysis was done with MATLAB.
+- Mean: 973
+- Standard Deviation: 4.4893
+- Standard Error: 0.86397
 
 ## Constant rate sampling
 
