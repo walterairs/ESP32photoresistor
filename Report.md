@@ -1,44 +1,53 @@
-# Used Hardware
+# Report
+
+
+## Used Hardware
 
 - Ai-thinker ESP-12K ESP32 S2 Version 08
 - KY-018 Photoresistor
 - Picoscope
 
-# Used Software
+## Used Software
 
--         PicoScope 7
--         Arduino IDE
--         LTspice
--         
+- PicoScope 7
+- Arduino IDE
+- LTspice      
 
-# Revised learning objectives
+## Revised learning objectives
 
--        How much focus spent on C language and controllers.
+- How much focus spent on C language and controllers.
 
--        Repeatability
+- Repeatability
 
-# Sensor
+## Sensor
 
--        What sensor was experimented and required connections/schematic.
+- What sensor was experimented and required connections/schematic.
 
--        The sensor experimented was a KY-018 photoresistor. 
+- The sensor experimented was a KY-018 photoresistor. 
 
-# Type-B uncertainty information
+## Schematic and connections
 
--        What sources of uncertainty were identified and what was found in data sheets.
+## Type-B uncertainty information
 
-# Type-A uncertainty experiments
+- What sources of uncertainty were identified and what was found in data sheets.
 
--        When having constant signal input, what was the measured uncertainty (print values to terminal and import to MATLAB for analysis)
+## Type-A uncertainty experiments
 
-# Constant rate sampling
+- When having constant signal input, what was the measured uncertainty (print values to terminal and import to MATLAB for analysis)
 
--        Timer based triggering of AD conversion.
+## Constant rate sampling
 
--        Jitter analysis (use GPIO pins to signal start of conversion and picoscope to see timings.)
+- Timer based triggering of AD conversion.
 
-# Digital filter testing
+- Jitter analysis (use GPIO pins to signal start of conversion and picoscope to see timings.)
 
--        Report testing digital filters for measured data (use online design tool and copypaste filter code). Use GPIO pins to indicate start and end of filter calculation and check timing with picoscope.
+## Digital filter testing
 
-# Summary
+- Report testing digital filters for measured data (use online design tool and copypaste filter code). Use GPIO pins to indicate start and end of filter calculation and check timing with picoscope.
+
+## Summary
+
+## Team
+[Valtteri Äyräs](https://github.com/walterairs)
+[Elmeri Anttila](https://github.com/elmerantil)
+[Niklas Suvitie](https://github.com/niqdevgit)
