@@ -27,6 +27,8 @@
 
 ## Schematic and connections
 
+![Connection image](/reportImages/ESP32_photoresistor.jpg "Connections")
+
 ## Type-B uncertainty information
 
 - What sources of uncertainty were identified and what was found in data sheets.
