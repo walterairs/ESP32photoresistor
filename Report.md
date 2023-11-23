@@ -35,7 +35,7 @@ What sensor was experimented and required connections/schematic.
 ## Linearization
 
 <img src="/reportImages/Curve.png">
-- y = 3.817e+04exp(-0.005252x) + 574.2
+y = 3.817e+04exp(-0.005252x) + 574.2
 
 ## Type-B uncertainty information
 
