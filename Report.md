@@ -21,7 +21,7 @@
 
 ## Sensor
 
-- What sensor was experimented and required connections/schematic.
+What sensor was experimented and required connections/schematic.
 
 - The sensor experimented was a KY-018 photoresistor. 
 
