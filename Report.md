@@ -15,10 +15,10 @@
 
 ## Revised learning objectives
 
-How much focus spent on C language and controllers.
+### How much focus spent on C language and controllers.
 - Code was mainly done with arduino ide. It took few iterations but no more than 6 hours was used for the code.
 
-- Repeatability
+### Repeatability
 
 ## Sensor
 
