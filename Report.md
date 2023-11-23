@@ -27,7 +27,7 @@
 
 ## Schematic and connections
 
-![Connection image](/reportImages/ESP32_photoresistor.jpg "Connections")
+<img src="/reportImages/ESP32_photoresistor.jpg" width="360" height="640">
 
 ## Type-B uncertainty information
 
