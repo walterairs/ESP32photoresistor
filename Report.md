@@ -32,6 +32,9 @@ What sensor was experimented and required connections/schematic.
 <img src="/reportImages/esp32-schematic.png" width="321" height="561">
 <img src="/reportImages/ESP32_photoresistor.jpg" width="240" height="320">
 
+## Linearization
+
+<img src="/reportImages/Curve.png">
 
 ## Type-B uncertainty information
 
