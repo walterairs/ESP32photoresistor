@@ -11,7 +11,9 @@
 
 - PicoScope 7
 - Arduino IDE
-- LTspice      
+- LTspice
+- Matlab
+- Coolexp Lux Meter
 
 ## Revised learning objectives
 
