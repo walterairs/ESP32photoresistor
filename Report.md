@@ -81,6 +81,4 @@ There was no datasheet to be found which would tell anything about uncertainty. 
 ## Summary of learning achievements
 
 ## Team
-[Valtteri Äyräs](https://github.com/walterairs)
-[Elmeri Anttila](https://github.com/elmerantil)
-[Niklas Suvitie](https://github.com/niqdevgit)
+[Valtteri Äyräs](https://github.com/walterairs) / [Elmeri Anttila](https://github.com/elmerantil) / [Niklas Suvitie](https://github.com/niqdevgit)
