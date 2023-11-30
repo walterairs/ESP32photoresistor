@@ -10,6 +10,8 @@ Our goal is to see how accurate photoresisting sensor is. How much error we have
 - [Schematic and connections](#Schematic-and-connections)
 - [Error analysis](#Error-analysis)
   - [Error sources](#Error-sources)
+  - [Error avoiding](#Error-avoiding)
+  - [Best guess of Error](#Best-guess-of-Error)
   - [Type-B uncertainty information](#Type-B-uncertainty-information)
   - [Type-A uncertainty experiments](#Type-A-uncertainty-experiments)
 - [Linearization](#Linearization)
@@ -48,6 +50,12 @@ What sensor was experimented and required connections/schematic.
 
 ### Error sources
 Here is the things that might affect the data...
+
+### Error avoiding
+Here is the steps we took to minimize error...
+
+### Best guess of Error
++- some lux
 
 ### Type-B uncertainty information
 
