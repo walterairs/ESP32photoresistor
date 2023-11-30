@@ -1,4 +1,8 @@
 # Report
+
+## Introduction
+Our goal is to see how accurate photoresisting sensor is. How much error we have and what we can do to minimize it. 
+
 ## Table of Contents
 - [Used Hardware](#Used-Hardware)
 - [Used Software](#Used-Software)
