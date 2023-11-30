@@ -1,7 +1,7 @@
 # Report
 ## Table of Contents
 - [Used Hardware](#Used-Hardware)
-- [Another Section](#Used-Software)
+- [Used Software](#Used-Software)
 - [Revised learning objectives](#Revised-learning-objectives)
 - [Sensor](#Sensor)
 
