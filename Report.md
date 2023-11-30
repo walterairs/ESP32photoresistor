@@ -4,10 +4,11 @@
 Our goal is to see how accurate photoresisting sensor is. How much error we have and what we can do to minimize it. 
 
 ## Table of Contents
-- [Used Hardware](#Used-Hardware)
-- [Used Software](#Used-Software)
-- [Sensor](#Sensor)
-- [Schematic and connections](#Schematic-and-connections)
+- [Tools](#Tools)
+  - [Used Hardware](#Used-Hardware)
+  - [Used Software](#Used-Software)
+  - [Sensor](#Sensor)
+  - [Schematic and connections](#Schematic-and-connections)
 - [Error analysis](#Error-analysis)
   - [Error sources](#Error-sources)
   - [Error avoiding](#Error-avoiding)
@@ -20,14 +21,15 @@ Our goal is to see how accurate photoresisting sensor is. How much error we have
 - [Team](#Team)
 
 
+## Tools
 
-## Used Hardware
+### Used Hardware
 
 - Ai-thinker ESP-12K ESP32 S2 Version 08
 - KY-018 Photoresistor
 - Picoscope
 
-## Used Software
+### Used Software
 
 - PicoScope 7
 - Arduino IDE
@@ -35,13 +37,13 @@ Our goal is to see how accurate photoresisting sensor is. How much error we have
 - Matlab
 - Coolexp Lux Meter
 
-## Sensor
+### Sensor
 
 What sensor was experimented and required connections/schematic.
 
 - The sensor experimented was a KY-018 photoresistor. 
 
-## Schematic and connections
+### Schematic and connections
 
 <img src="/reportImages/esp32-schematic.png" width="321" height="561">
 <img src="/reportImages/ESP32_photoresistor.jpg" width="240" height="320">
