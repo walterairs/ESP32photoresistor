@@ -9,8 +9,9 @@ Our goal is to see how accurate photoresisting sensor is. How much error we have
 - [Sensor](#Sensor)
 - [Schematic and connections](#Schematic-and-connections)
 - [Error analysis](#Error-analysis)
-- - [Type-B uncertainty information](#Type-B-uncertainty-information)
-- - [Type-A uncertainty experiments](#Type-A-uncertainty-experiments)
+  - [Error sources](#Error-sources)
+  - [Type-B uncertainty information](#Type-B-uncertainty-information)
+  - [Type-A uncertainty experiments](#Type-A-uncertainty-experiments)
 - [Linearization](#Linearization)
 - [Revised learning objectives](#Revised-learning-objectives)
 - [Summary of learning achievements](#Summary-of-learning-achievements)
@@ -44,6 +45,9 @@ What sensor was experimented and required connections/schematic.
 <img src="/reportImages/ESP32_photoresistor.jpg" width="240" height="320">
 
 ## Error analysis
+
+### Error sources
+Here is the things that might affect the data...
 
 ### Type-B uncertainty information
 
