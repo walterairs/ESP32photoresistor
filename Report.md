@@ -76,11 +76,28 @@ There was no datasheet to be found which would tell anything about uncertainty. 
 
 ### Type-A uncertainty experiments
 
+#### pre-linearization
 - When having constant signal input, what was the measured uncertainty (print values to terminal and import to MATLAB for analysis)
 - The sensor was exposed to a constant light during the measurement. The analysis was done with MATLAB.
 - Mean: 973
 - Standard Deviation: 4.4893
 - Standard Error: 0.86397
+
+#### post-linearization
+
+Using the following snippet in uncertainty.ipynb:
+```python
+count = 0
+for i in static_data:
+    if i > data_mean-data_std and i < data_mean+data_std:
+        count += 1
+
+print('Number of data points within 1 standard deviation of the mean: ', count)
+print('Percentage of data points within 1 standard deviation of the mean: ', count/len(static_data))
+```
+
+We achieved the following percentage of values within 1 standard deviaton: 0.929.
+This means, ~ 93% values within 1std => <b>K=1</b>
 
 
 ## Linearization
