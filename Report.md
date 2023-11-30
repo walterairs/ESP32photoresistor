@@ -8,6 +8,7 @@ Our goal is to see how accurate photoresisting sensor is. How much error we have
   - [Used Hardware](#Used-Hardware)
   - [Used Software](#Used-Software)
   - [Sensor](#Sensor)
+  - [Datasheets of the sensor](#Datasheets-of-the-sensor)
   - [Schematic and connections](#Schematic-and-connections)
 - [Error analysis](#Error-analysis)
   - [Error sources](#Error-sources)
