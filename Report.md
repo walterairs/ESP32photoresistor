@@ -43,6 +43,14 @@ What sensor was experimented and required connections/schematic.
 
 - The sensor experimented was a KY-018 photoresistor. 
 
+### Datasheets of the sensor
+
+https://cdn-learn.adafruit.com/assets/assets/000/010/129/original/APP_PhotocellIntroduction.pdf
+https://cdn-learn.adafruit.com/assets/assets/000/010/130/original/gde_photocellselecting.pdf
+https://cdn-learn.adafruit.com/assets/assets/000/010/127/original/PDV-P8001.pdf
+https://cdn-learn.adafruit.com/assets/assets/000/010/128/original/DTS_A9950_A7060_B9060.pdf
+https://www.advancedphotonix.com/wp-content/uploads/2015/07/DS-PDV-P8001.pdf
+
 ### Schematic and connections
 
 <img src="/reportImages/esp32-schematic.png" width="321" height="561">
