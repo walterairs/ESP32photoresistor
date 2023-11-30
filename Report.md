@@ -79,6 +79,12 @@ There was no datasheet to be found which would tell anything about uncertainty. 
 - Report testing digital filters for measured data (use online design tool and copypaste filter code). Use GPIO pins to indicate start and end of filter calculation and check timing with picoscope.
 
 ## Summary of learning achievements
+During our project, we navigated a multitude of challenges and gained invaluable insights. We delved into the intricate world of hardware and software integration, exploring the interplay between various components like the Ai-thinker ESP32 S2, KY-018 Photoresistor, and Picoscope. Our foray into programming, particularly with Arduino IDE and MATLAB, honed our skills in code iteration and analysis.
+
+One of the pivotal lessons learned revolved around the concept of repeatability. We encountered real-world complexities where creating consistent conditions for accurate measurements proved challenging. For instance, fluctuations in light intensity due to slight movements by individuals nearby emphasized the importance of accounting for environmental factors in sensor-based measurements.
+
+Our experiments in Type-A uncertainty measurement, utilizing constant light input and subsequent MATLAB analysis, provided us with statistical metrics—mean, standard deviation, and standard error—vital for assessing sensor performance under stable conditions.
+
 
 ## Team
 [Valtteri Äyräs](https://github.com/walterairs) / [Elmeri Anttila](https://github.com/elmerantil) / [Niklas Suvitie](https://github.com/niqdevgit)
