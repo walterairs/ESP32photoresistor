@@ -1,4 +1,19 @@
 # Report
+## Table of Contents
+- [Used Hardware](#Used-Hardware)
+- [Another Section](#Used-Software)
+- [Revised learning objectives](#Revised-learning-objectives)
+- [Sensor](#Sensor)
+
+- [Schematic and connections](#Schematic-and-connections)
+- [Linearization](#Linearization)
+- [Type-B uncertainty information](#Type-B-uncertainty-information)
+- [Type-A uncertainty experiments](#Type-A-uncertainty-experiments)
+- [Constant rate sampling](#Constant-rate-sampling)
+- [Digital filter testing](#Digital-filter-testing)
+- [Summary of learning achievements](#Summary-of-learning-achievements)
+- [Team](#Team)
+
 
 
 ## Used Hardware
