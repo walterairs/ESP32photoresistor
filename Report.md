@@ -46,11 +46,11 @@ What sensor was experimented and required connections/schematic.
 
 ### Datasheets of the sensor
 
-https://cdn-learn.adafruit.com/assets/assets/000/010/129/original/APP_PhotocellIntroduction.pdf
-https://cdn-learn.adafruit.com/assets/assets/000/010/130/original/gde_photocellselecting.pdf
-https://cdn-learn.adafruit.com/assets/assets/000/010/127/original/PDV-P8001.pdf
-https://cdn-learn.adafruit.com/assets/assets/000/010/128/original/DTS_A9950_A7060_B9060.pdf
-https://www.advancedphotonix.com/wp-content/uploads/2015/07/DS-PDV-P8001.pdf
+[Photoconductive Cells](https://cdn-learn.adafruit.com/assets/assets/000/010/129/original/APP_PhotocellIntroduction.pdf) <br>
+[Selecting a Photocell](https://cdn-learn.adafruit.com/assets/assets/000/010/130/original/gde_photocellselecting.pdf)<br>
+[CdS Photoconductive Photocells](https://cdn-learn.adafruit.com/assets/assets/000/010/127/original/PDV-P8001.pdf)<br>
+[Photocells A 9950, A 7060, B 9060](https://cdn-learn.adafruit.com/assets/assets/000/010/128/original/DTS_A9950_A7060_B9060.pdf)<br>
+[PDV P8001](https://www.advancedphotonix.com/wp-content/uploads/2015/07/DS-PDV-P8001.pdf)
 
 ### Schematic and connections
 
