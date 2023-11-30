@@ -51,10 +51,10 @@ What sensor was experimented and required connections/schematic.
 ## Error analysis
 
 ### Error sources
-Here is the things that might affect the data...
+Here are the things that might affect the data: Changes in the general luminocity in the room. Position of the sensor. The uncertainty of the sensor itself, including the age of the sensor. Methodology of the measurement, for example the number of samples. Temperature and humidity changes in the room. External electrical noise. User error.
 
 ### Error avoiding
-Here is the steps we took to minimize error...
+To minimize these errors, ensuring proper calibration of equipment, minimizing external interferences, maintaining a consistent environment, and positioning the photoresistor appropriately for accurate lux measurements. Additionally, it is good to cross-validate measurements with other reliable lux measurement devices for confirmation.
 
 ### Best guess of Error
 +- some lux
