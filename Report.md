@@ -9,8 +9,6 @@
 - [Linearization](#Linearization)
 - [Type-B uncertainty information](#Type-B-uncertainty-information)
 - [Type-A uncertainty experiments](#Type-A-uncertainty-experiments)
-- [Constant rate sampling](#Constant-rate-sampling)
-- [Digital filter testing](#Digital-filter-testing)
 - [Summary of learning achievements](#Summary-of-learning-achievements)
 - [Team](#Team)
 
@@ -67,16 +65,6 @@ There was no datasheet to be found which would tell anything about uncertainty. 
 - Mean: 973
 - Standard Deviation: 4.4893
 - Standard Error: 0.86397
-
-## Constant rate sampling
-
-- Timer based triggering of AD conversion.
-
-- Jitter analysis (use GPIO pins to signal start of conversion and picoscope to see timings.)
-
-## Digital filter testing
-
-- Report testing digital filters for measured data (use online design tool and copypaste filter code). Use GPIO pins to indicate start and end of filter calculation and check timing with picoscope.
 
 ## Summary of learning achievements
 During our project, we navigated a multitude of challenges and gained invaluable insights. We delved into the intricate world of hardware and software integration, exploring the interplay between various components like the Ai-thinker ESP32 S2, KY-018 Photoresistor, and Picoscope. Our foray into programming, particularly with Arduino IDE and MATLAB, honed our skills in code iteration and analysis.
