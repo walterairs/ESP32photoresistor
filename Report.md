@@ -66,7 +66,7 @@ Here are the things that might affect the data: Changes in the general luminocit
 To minimize these errors, ensuring proper calibration of equipment, minimizing external interferences, maintaining a consistent environment, and positioning the photoresistor appropriately for accurate lux measurements. Additionally, it is good to cross-validate measurements with other reliable lux measurement devices for confirmation.
 
 ### Best guess of Error
-+- some lux
+Despite the resources and circumstances we got sensor error of +-82 lux. Check [linearization](#Linearization) for more info.
 
 ### Type-B uncertainty information
 
@@ -104,6 +104,11 @@ This means, ~ 93% values within 1std => <b>K=1</b>
 
 - The measurement for the linearization was done by slowly lifting a phone flashlight away from the photoresistor and a smartphone with a lux measurement application (Coolexp Lux Meter). The linearization uses the following function: "y = 3.817e+04exp(-0.005252x) + 574.2" <br>
 <img src="/reportImages/Curve.png">
+<img src="/reportImages/lin_data.png">
+- According to the graph above, the mean error was +-82 lux.
+
+## Data filtering
+<img src="/reportImages/Picoscope_filter.png">
 
 ## Revised learning objectives
 
