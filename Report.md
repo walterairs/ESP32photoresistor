@@ -66,7 +66,7 @@ Here are the things that might affect the data: Changes in the general luminocit
 To minimize these errors, ensuring proper calibration of equipment, minimizing external interferences, maintaining a consistent environment, and positioning the photoresistor appropriately for accurate lux measurements. Additionally, it is good to cross-validate measurements with other reliable lux measurement devices for confirmation.
 
 ### Best guess of Error
-Despite the resources and circumstances we got sensor error of +-82 lux. Check [linearization](#Linearization) for more info.
+Using calibrated instrument, the mean error is +-82 lux. Check [linearization](#Linearization) for more info.
 
 ### Type-B uncertainty information
 
