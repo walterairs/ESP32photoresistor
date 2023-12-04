@@ -44,7 +44,7 @@ What sensor was experimented and required connections/schematic.
 
 - The sensor experimented was a KY-018 photoresistor. 
 
-### Datasheets of photoresistor sensors
+### Datasheets of some photoresistor sensors
 
 [Photoconductive Cells](https://cdn-learn.adafruit.com/assets/assets/000/010/129/original/APP_PhotocellIntroduction.pdf) <br>
 [Selecting a Photocell](https://cdn-learn.adafruit.com/assets/assets/000/010/130/original/gde_photocellselecting.pdf)<br>
