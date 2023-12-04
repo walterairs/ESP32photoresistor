@@ -110,7 +110,7 @@ This means, ~ 93% values within 1std => <b>K=1</b>
 ## Data filtering
 <img src="/reportImages/Picoscope_filter.png">
 
-Checked with picoscope, wheter the the signal was noisy on the on the sensor. According to the measurements, the noise of the signal is significally small so filtering of the signal is considered unnecessary
+Checked with picoscope, wheter the the signal was noisy on the sensor. According to the measurements, the noise of the signal is significally small so filtering of the signal is considered unnecessary
 
 ## Revised learning objectives
 
