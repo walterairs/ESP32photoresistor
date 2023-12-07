@@ -119,7 +119,7 @@ Checked with picoscope, wether the the signal was noisy on the sensor. According
 ## Revised learning objectives
 
 ### How much focus spent on C language and controllers.
-- Code was mainly done with arduino ide. It took few iterations but no more than 6 hours was used for the code.
+- Code was mainly done with arduino ide. It took few iterations but no more than 6 hours was used for the code. One issue we encountered was aligning the sensor sampling rate with the lux-meter. The lux-meter timestamped the measurements, revealing that it took approximately 3 samples per second. We adjusted the code accordingly to match this rate, and everything worked out great.
 
 ### Repeatability
 - We learned that creating the right conditions for repeatability in real life can be challenging. In our case, measuring light might be problematic if there is any movement near the sensor and the light sources.
