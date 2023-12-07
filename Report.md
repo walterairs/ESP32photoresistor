@@ -60,7 +60,7 @@ What sensor was experimented and required connections/schematic.
 ## Error analysis
 
 ### Error sources
-Here are the things that might affect the data: Changes in the general luminocity in the room. Position of the sensor. The uncertainty of the sensor itself, including the age of the sensor. Methodology of the measurement, for example the number of samples. Temperature and humidity changes in the room. External electrical noise. User error.
+Changes in the general luminocity in the room. Temperature and humidity changes in the room. Position of the sensor. The uncertainty of the sensor itself, including the age of the sensor. Methodology of the measurement, for example the number of samples. External electrical noise. User error.
 
 ### Error avoiding
 To minimize these errors, ensuring proper calibration of equipment, minimizing external interferences, maintaining a consistent environment, and positioning the photoresistor appropriately for accurate lux measurements. Additionally, it is good to cross-validate measurements with other reliable lux measurement devices for confirmation.
@@ -75,12 +75,12 @@ What sources of uncertainty were identified and what was found in data sheets.
 There was no datasheet to be found which would tell anything about uncertainty. Some forum suggested that sensor itself might be 161 Adafruit sensor. But even for that sensor no uncertainty data can be found.
 
 ![wavelength](/reportImages/wavelenght.png) <br>
-found this spectral response diagram from the selecting photocell datasheet. As we can see, the resistive sensor as it's most reponsive state where the wavelength is green(5x10^-7 - 6x10^-7)m.
+Found this spectral response diagram from the selecting photocell datasheet. As we can see, the resistive sensor as it's most reponsive state where the wavelength is green(5x10^-7 - 6x10^-7)m.
 
 ### Type-A uncertainty experiments
 
 #### pre-linearization
-- When having constant signal input, what was the measured uncertainty (print values to terminal and import to MATLAB for analysis)
+- When having constant signal input, what was the measured uncertainty?
 - The sensor was exposed to a constant light during the measurement. The analysis was done with MATLAB.
 - Mean: 973
 - Standard Deviation: 4.4893
@@ -113,7 +113,7 @@ This means, ~ 93% values within 1std => <b>K=1</b>
 ## Data filtering
 <img src="/reportImages/Picoscope_filter.png">
 
-Checked with picoscope, wheter the the signal was noisy on the sensor. According to the measurements, the noise of the signal is significally small so filtering of the signal is considered unnecessary
+Checked with picoscope, wether the the signal was noisy on the sensor. According to the measurements, the noise of the signal is significally small so filtering of the signal is considered unnecessary.
 
 ## Revised learning objectives
 
@@ -121,7 +121,7 @@ Checked with picoscope, wheter the the signal was noisy on the sensor. According
 - Code was mainly done with arduino ide. It took few iterations but no more than 6 hours was used for the code.
 
 ### Repeatability
-- We learned about repeatability that in real life right conditions are hard to create. In our case, measuring light might be problematic if the person near moves his head and light values change.
+- We learned that creating the right conditions for repeatability in real life can be challenging. In our case, measuring light might be problematic if there is any movement near the sensor and the light sources.
 
 ## Summary of learning achievements
 During our project, we navigated a multitude of challenges and gained invaluable insights. We delved into the intricate world of hardware and software integration, exploring the interplay between various components like the Ai-thinker ESP32 S2, KY-018 Photoresistor, and Picoscope. Our foray into programming, particularly with Arduino IDE and MATLAB, honed our skills in code iteration and analysis.
