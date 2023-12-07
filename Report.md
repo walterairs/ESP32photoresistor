@@ -74,6 +74,9 @@ What sources of uncertainty were identified and what was found in data sheets.
 
 There was no datasheet to be found which would tell anything about uncertainty. Some forum suggested that sensor itself might be 161 Adafruit sensor. But even for that sensor no uncertainty data can be found.
 
+![wavelength](/reportImages/wavelenght.png) <br>
+found this spectral response diagram from the selecting photocell datasheet. As we can see, the resistive sensor as it's most reponsive state where the wavelength is green(5*10^-7 - 6*1-^-7)m.
+
 ### Type-A uncertainty experiments
 
 #### pre-linearization
