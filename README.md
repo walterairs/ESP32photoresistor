@@ -19,6 +19,7 @@ Our goal is to see how accurate photoresisting sensor is. How much error we have
 - [Linearization](#Linearization)
 - [Revised learning objectives](#Revised-learning-objectives)
 - [Summary of learning achievements](#Summary-of-learning-achievements)
+- [Instructions](#Instructions)
 - [Team](#Team)
 
 
@@ -129,6 +130,38 @@ During our project, we navigated a multitude of challenges and gained invaluable
 One of the pivotal lessons learned revolved around the concept of repeatability. We encountered real-world complexities where creating consistent conditions for accurate measurements proved challenging. For instance, fluctuations in light intensity due to slight movements by individuals nearby emphasized the importance of accounting for environmental factors in sensor-based measurements.
 
 Our experiments in Type-A uncertainty measurement, utilizing constant light input and subsequent MATLAB analysis, provided us with statistical metrics—mean, standard deviation, and standard error—vital for assessing sensor performance under stable conditions.
+
+## Instructions
+
+In order to capture data from the COM dedicated for the ESP32 device, you need to shut down the arduino IDE application. The COM could be preserved for one application to listen at a time.
+To use the python environment, IT HAS TO BE AT THE PROJECT ROOT DIR. = open /analysis as a new vscode window.
+
+### general bash commands to use
+
+pulling the repository the first time
+
+```bash
+git clone https://github.com/walterairs/ESP32photoresistor.git
+```
+
+creating and activating the virtual environment
+
+```bash
+python3 -m venv .venv
+source .venv/Scripts/activate
+```
+
+Installing the requirements to the <b>ACTIVE</b> virtual environment.
+
+```bash
+pip install -r requirements.txt
+```
+
+when you have installed some packets that are not added into the requirements file:
+
+```bash
+pip freeze > requirements.txt
+```
 
 
 ## Team
