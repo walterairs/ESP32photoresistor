@@ -133,6 +133,8 @@ Our experiments in Type-A uncertainty measurement, utilizing constant light inpu
 
 ## Instructions
 
+This chapter has the instructions for installing and establishing the repository for the project.
+
 In order to capture data from the COM dedicated for the ESP32 device, you need to shut down the arduino IDE application. The COM could be preserved for one application to listen at a time.
 To use the python environment, IT HAS TO BE AT THE PROJECT ROOT DIR. = open /analysis as a new vscode window.
 
