@@ -1,7 +1,7 @@
 # Report
 
 ## Introduction
-Our goal is to see how accurate photoresisting sensor is. How much error we have and what we can do to minimize it. 
+In this project our aim is to see how accurate photoresisting sensor is. How much error we have and what we can do to minimize it. Our objectives include researching the uncertainties and error sources of the sensor itself.
 
 ## Table of Contents
 - [Tools](#Tools)
