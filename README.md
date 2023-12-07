@@ -41,9 +41,9 @@ Our goal is to see how accurate photoresisting sensor is. How much error we have
 
 ### Sensor
 
-What sensor was experimented and required connections/schematic.
+What sensor was experimented and required connections/schematic?
 
-- The sensor experimented was a KY-018 photoresistor. 
+- The sensor experimented was a KY-018 photoresistor whose resistance value decreases with brighter surroundings.
 
 ### Datasheets of some photoresistor sensors
 
