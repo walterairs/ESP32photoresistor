@@ -38,6 +38,8 @@ Our goal is to see how accurate photoresisting sensor is. How much error we have
 - LTspice
 - Matlab
 - Coolexp Lux Meter
+- Visual Studio Code
+- git
 
 ### Sensor
 
